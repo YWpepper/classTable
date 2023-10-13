@@ -6,7 +6,6 @@ import time, datetime
 import json
 from random import Random
 
-
 __author__ = 'pepper'
 __site__ = 'pepper.com'
 
